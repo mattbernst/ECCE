@@ -1,7 +1,7 @@
 # ECCE
 Extensible Computational Chemistry Environment
 
-This mirrors a snapshot of the ECCE 7.0 source code as distributed by the Environmental and Molecular Sciences Laboratory of the Pacific Northwest National Laboratory: http://ecce.emsl.pnl.gov/
+This mirrors a snapshot of the ECCE 7.0 source code as distributed by the Environmental Molecular Sciences Laboratory of the Pacific Northwest National Laboratory: http://ecce.emsl.pnl.gov/
 
 ECCE is a graphical user interface for preparing and managing computational chemistry jobs in NWChem, Gaussian, and GAMESS-UK. It runs under Linux and some Unix platforms.
 
