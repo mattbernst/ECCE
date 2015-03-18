@@ -8,5 +8,5 @@ ECCE is a graphical user interface for preparing and managing computational chem
 Although the software is now open source the code has heretofore been poorly visible due to its distribution as a single opaque compressed archive.
 
 See the following for instructions on how to build ECCE under Debian or derived Linux distributions:
-http://verahill.blogspot.com.au/2013/08/491-compiling-ecce-v70-on-debian.html
-http://www.nwchem-sw.org/index.php/Special:AWCforum/st/id1094/Compiling_ECCE_v7_on_Ubuntu_13.1....html
+* http://verahill.blogspot.com.au/2013/08/491-compiling-ecce-v70-on-debian.html
+* http://www.nwchem-sw.org/index.php/Special:AWCforum/st/id1094/Compiling_ECCE_v7_on_Ubuntu_13.1....html
